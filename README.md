@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brian Walker, <br />owner of WebWalker Coding Studios👨🏽‍💻🏢✨</h1>
+<h1 align="center">Hi 👋, I'm Brian Walker, <br />Owner of WebWalker Coding Studios👨🏽‍💻🏢✨</h1>
 <h3 align="center">A web designer and tech writer based in Detroit. I code excellent websites, I write illuminating articles, and I love WordPress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webwalkerstudios&label=Profile%20views&color=0e75b6&style=flat" alt="webwalkerstudios" /> </p>
